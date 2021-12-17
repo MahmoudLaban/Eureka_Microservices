@@ -1,0 +1,8 @@
+.login-part{
+    padding: 30px 20px;
+    border-radius: 10px;
+    border: 5px solid rgba(0, 0, 0, 0.4);
+}
+#root {
+    height: 100vh;
+}
